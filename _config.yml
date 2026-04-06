@@ -7,6 +7,8 @@ title: "Chirag Dhakal Sahaj"
 author: "Chirag Dhakal Sahaj"
 email: "dchirag008@gmail.com"
 logo: "assets/logos/logo.jpg"
+url: "https://chiragdhakal.github.io"
+baseurl: ""
 
 # 2. Collection
 collections:
